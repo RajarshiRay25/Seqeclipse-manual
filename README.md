@@ -1,2 +1,2 @@
-# Seqeclipse-presentation
-Presentation in powerpoint for seqeclipse server
+# Seqeclipse-Manual
+Manual Description in PDF format for seqeclipse server
